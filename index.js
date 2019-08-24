@@ -14,3 +14,4 @@ button.addEventListener("click", event => {
   wordListItem.innerHTML = wordGenerated;
   wordList.appendChild(wordListItem);
 });
+// Testando o meu segundo commit!
